@@ -8,4 +8,4 @@ const printMessageAndGreeting  = ({ msg, greeting }) => {
 }   
 
 
-module.exports = { printMessgae }
+module.exports = { printMessgae, printMessageAndGreeting }
